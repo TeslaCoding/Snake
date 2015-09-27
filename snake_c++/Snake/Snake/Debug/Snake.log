@@ -1,0 +1,20 @@
+﻿Compilazione avviata 25/09/2015 14:57:47.
+     1>Progetto "C:\Users\Santy-\Desktop\c\snake_def\Snake\Snake\Snake.vcxproj" sul nodo 2 (destinazioni: build).
+     1>InitializeBuildStatus:
+         Creazione di "Debug\Snake.unsuccessfulbuild". È stato specificato "AlwaysCreate".
+       ClCompile:
+         Tutti gli output sono aggiornati.
+       ManifestResourceCompile:
+         Tutti gli output sono aggiornati.
+       Link:
+         Tutti gli output sono aggiornati.
+       Manifest:
+         Tutti gli output sono aggiornati.
+       FinalizeBuildStatus:
+         Eliminazione del file "Debug\Snake.unsuccessfulbuild" in corso.
+         Aggiornamento timestamp di "Debug\Snake.lastbuildstate".
+     1>Compilazione progetto "C:\Users\Santy-\Desktop\c\snake_def\Snake\Snake\Snake.vcxproj" (destinazioni: build) completata.
+
+Compilazione completata.
+
+Tempo trascorso 00:00:00.71
